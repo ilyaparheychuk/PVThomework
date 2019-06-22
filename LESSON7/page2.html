@@ -1,0 +1,45 @@
+<html>
+
+<head>
+<link rel = "stylesheet" href = "style.css">
+<title>Моя Вторая страничка</title>
+<script language="javascript">
+var i=0;
+var imgs=new Array('1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', 
+'1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg',
+'1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', 
+'1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg', 
+'1.jpg','2.jpg', '1.jpg','2.jpg', '1.jpg','2.jpg'); 
+function imgsrc(){
+var image=document.getElementById("image");
+image.src=imgs[++i];
+}
+</script>
+
+</head>
+
+<body>
+<p><font size="20" color="white" face="Arial">МУЗЫКА</font>
+
+<br>
+<p><a href="page1.html"><img src="main.jpg" width="390" 
+   height="100"></a></p>
+<p><a href="page2.html"><img src="music.jpg" width="390" 
+   height="100"></a></p>
+<p><a href="page3.html"><img src="video.jpg" width="390" 
+   height="100"></a></p>
+
+<p><font size="25" color="white" face="Arial">БАЛДЕЖИ КАЙВУШИ</font></p>
+
+<p><font size="25" color="yellow" face="Arial">...монгооол э-э монгоол...</font></p>
+  <audio controls>
+    <source src="mongol.ogg" type="audio/ogg; codecs=vorbis"  controls="controls">
+    <source src="mongol.mp3" type="audio/mpeg">
+    Тег audio не поддерживается вашим браузером. 
+  </audio>
+  
+  
+<img id="image" src="1.jpg" onClick="imgsrc();">
+  
+</body>  
+</html>

@@ -1,0 +1,12 @@
+body
+{
+background-image: url("pinkpony.jpg");
+background-attachment: fixed;
+
+
+.mysettings-menu{
+ position: absolute; 
+ right: 100px;
+ top:100px;
+}
+}

@@ -1,0 +1,29 @@
+00:31:23,314  INFO main NegativeLoginTest:before:26 - Start NegativeLoginTEst
+00:31:23,323  INFO main NegativeLoginTest:notLoginAndPsswordTest:51 - Without LoginAndPassword
+00:31:36,675  INFO main NegativeLoginTest:before:26 - Start NegativeLoginTEst
+00:31:36,676  INFO main NegativeLoginTest:withoutLoginTest:44 - WithoutLogin
+00:31:49,358  INFO main NegativeLoginTest:before:26 - Start NegativeLoginTEst
+00:31:49,359  INFO main NegativeLoginTest:withoutPasswordTest:37 - Without password
+00:50:02,869  INFO main NegativeLoginTest:before:30 - Start NegativeLoginTEst
+00:50:02,878  INFO main NegativeLoginTest:withoutPasswordTest:41 - Without password
+00:56:46,012  INFO main NegativeLoginTest:before:28 - Start NegativeLoginTEst
+00:56:46,022  INFO main NegativeLoginTest:withoutPasswordTest:39 - Without password
+01:01:42,204  INFO main FlagTest:before:41 - Start FLAGTEst
+01:01:42,211  INFO main FlagTest:putFlagTest:52 - PUT FLAG
+01:02:16,815  INFO main FlagTest:before:41 - Start FLAGTEst
+01:02:16,822  INFO main FlagTest:removeFlagTest:59 - REMOVE FLAG
+02:20:43,036  INFO main VKapiTest:postMessageTest:29 - test number 1 'POST' are starting.....
+02:20:44,990  INFO main VKapiTest:postMessageTest:33 - Test 1 continue....
+02:20:44,999  INFO main VKapiTest:postMessageTest:36 - Test 1 assert....
+02:20:45,252  INFO main VKapiTest:postMessageTest:39 - Test 1 ended
+01:19:43,997  INFO main SentMessageTest:before:47 - Start SentMessageTEst
+01:19:44,015  INFO main SentMessageTest:sendMessageToFriendsTest:57 - Start SentMessage
+01:20:48,366  INFO main SentMessageTest:before:47 - Start SentMessageTEst
+01:20:48,374  INFO main SentMessageTest:sendMessageToFriendsTest:57 - Start SentMessage
+01:49:25,463  INFO main NegativeLoginTest:before:28 - Start NegativeLoginTEst
+01:49:25,472  INFO main NegativeLoginTest:withoutPasswordTest:39 - Without password
+02:17:59,967  INFO main SpamTest:before:36 - Start ApplitoolsTest
+02:21:11,502  INFO main SpamTest:before:38 - Start ApplitoolsTest
+02:25:10,236  INFO main SpamTest:before:41 - Start ApplitoolsTest
+02:30:15,432  INFO main SpamTest:before:41 - Start ApplitoolsTest
+02:33:53,638  INFO main SpamTest:before:41 - Start ApplitoolsTest

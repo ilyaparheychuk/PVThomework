@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Main>
+    <Message>
+        <Friend id = "1">
+            <Email>iliyaparheychuk@gmail.com</Email>
+            <Theme>BOT</Theme>
+            <Message>Hello ILIYA</Message>
+        </Friend>
+        <Friend id = "2">
+            <Email>aleshkevichpv@gmail.com</Email>
+            <Theme>BOT NUMBER 2</Theme>
+            <Message>Hello PAVEL</Message>
+        </Friend>
+    </Message>
+</Main>
